@@ -15,3 +15,10 @@ print("Su cantidad en dolares es:",cantColones/8.75,"\n")
 distancia = float(input("Ingrese la distancia de su destino?(En Km)\n"))
 velocidad = float(input("Ingrese la velocidad a la que viaja?(En Km/m)\n"))
 print("Usted llegara a su destino en:",distancia/velocidad,"minutos")
+
+
+#tarea 3
+#Variables
+nombre = "Alexis"
+apellido = "Mancia"
+print("Mi nombre es: ",nombre,apellido)
